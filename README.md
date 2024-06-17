@@ -16,7 +16,7 @@ A boat rental script is a software tool that helps manage your boat rental busin
 5. Automated Reminders: Send automatic reminders to customers about their bookings.
 
    
-<h4>Features to Look For</h4>
+<h3>Features to Look For</h3>
 When choosing a boat rental script, here are some features you might want to consider:
 
 User-Friendly Interface: Easy for both you and your customers to use.
@@ -26,7 +26,7 @@ Integration with Payment Gateways: Supports various payment methods.
 Customer Support: Access to help when you need it.
 
 
-<h5>Conclusion</h5>
+<h3>Conclusion</h3>
 Using a boat rental script can transform your business by making it more efficient and customer-friendly. Whether you are just starting out or looking to upgrade your current system, a good boat rental script is a valuable investment.
 
 One company that offers a reliable boat rental script is Miracuves. They provide a feature-rich, user-friendly script that can help take your boat rental business to the next level. With Miracuves, you can streamline your operations and provide an excellent booking experience for your customers.
@@ -35,7 +35,7 @@ One company that offers a reliable boat rental script is Miracuves. They provide
 
 
 <p>Visit us for the best-customised app development service: <a href="https://miracuves.com/">Miracuves</a></p>
-Call Us For More Details: +912269710730
+<br>Call Us For More Details: +912269710730</br>
 Email Us: <a href="info@miracuves.com">info@miracuves.com</a>
 
 
