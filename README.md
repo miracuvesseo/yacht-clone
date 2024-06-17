@@ -34,7 +34,7 @@ One company that offers a reliable boat rental script is Miracuves. They provide
 
 
 
-<p>Visit us for the best-customised app development service: <a href="https://miracuves.com/">Miracuves</a></p>
+Visit us for the best-customised app development service: <a href="https://miracuves.com/">Miracuves</a>
 <br>Call Us For More Details: +912269710730</br>
 Email Us: <a href="info@miracuves.com">info@miracuves.com</a>
 
